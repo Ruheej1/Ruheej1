@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/2382464/screenshots/4996846/chris-dribbbble-romper.gif"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ruhee</h1>
 <h3 align="center">I'm Learning, Exploring, Growing each day!</h3>
