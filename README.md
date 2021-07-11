@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/2382464/screenshots/4996846/chris-dribbbble-romper.gif"/></a>
+<a href="#"><img width="50%" height="auto" src="https://cdn.dribbble.com/users/2382464/screenshots/4996846/chris-dribbbble-romper.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ruhee</h1>
 <h3 align="center">I'm Learning, Exploring, Growing each day!</h3>
@@ -51,6 +51,7 @@
 
   <br>
     <a href="https://github.com/Ruheej1/github-readme-stats"><img alt="Ruhee Jain's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ruheej1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <br>
   <a href="https://github.com/Ruheej1/github-readme-stats"><img alt="Ruhee Jain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruheej1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br>
   <br>
@@ -65,7 +66,7 @@
 <br>
 <br>
 
-## Connect with me:
+## 📫 Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ruhee-jain-47447b196/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -73,7 +74,7 @@
 
 </p>
 
-## ❤ Views and Followers ❤
+## ❤ Views and Followers 
 <br/>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
 <img src="https://komarev.com/ghpvc/?username=Ruheej1">
