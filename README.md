@@ -1,4 +1,6 @@
+<p align="center">
 <a href="#"><img width="50%" height="auto" src="https://cdn.dribbble.com/users/2382464/screenshots/4996846/chris-dribbbble-romper.gif" height="175px"/></a>
+</p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ruhee</h1>
 <h3 align="center">I'm Learning, Exploring, Growing each day!</h3>
@@ -50,9 +52,14 @@
 ## 📊 My Github Stats
 
   <br>
+  <p align="center">
     <a href="https://github.com/Ruheej1/github-readme-stats"><img alt="Ruhee Jain's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ruheej1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <br>
+</p>
+
+<p align="center">
   <a href="https://github.com/Ruheej1/github-readme-stats"><img alt="Ruhee Jain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruheej1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
   <br>
   <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
